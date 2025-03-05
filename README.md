@@ -52,11 +52,4 @@ java src.Main
 
 👨‍💻 Contributors
 
-	•	[Your Name] (Developer)
-	•	[Other Contributors]
-
-📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
+	•	[Mashaba](Developer)
